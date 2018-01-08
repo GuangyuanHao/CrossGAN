@@ -6,10 +6,10 @@
   ## Current results
   The current results just get the similar effect as CycleGAN. When translated to horse, zebra's stripe is still a bit clear. This model still needs to be improved.
   ### Horse to Zebra
-    ![h1](https://github.com/GuangyuanHao/CrossGAN/raw/master/results/h1.jpg) 
-    ![z1](https://github.com/GuangyuanHao/CrossGAN/raw/master/results/z1.jpg) 
-    ![h2](https://github.com/GuangyuanHao/CrossGAN/raw/master/results/h2.jpg) 
-    ![z2](https://github.com/GuangyuanHao/CrossGAN/raw/master/results/z2.jpg)
+   ![h1](https://github.com/GuangyuanHao/CrossGAN/raw/master/results/h1.jpg) 
+   ![z1](https://github.com/GuangyuanHao/CrossGAN/raw/master/results/z1.jpg) 
+   ![h2](https://github.com/GuangyuanHao/CrossGAN/raw/master/results/h2.jpg) 
+   ![z2](https://github.com/GuangyuanHao/CrossGAN/raw/master/results/z2.jpg)
   ### Zebra to Horse 
-    ![zz1](https://github.com/GuangyuanHao/CrossGAN/raw/master/results/zz1.jpg) 
-    ![hh1](https://github.com/GuangyuanHao/CrossGAN/raw/master/results/hh1.jpg) 
+   ![zz1](https://github.com/GuangyuanHao/CrossGAN/raw/master/results/zz1.jpg) 
+   ![hh1](https://github.com/GuangyuanHao/CrossGAN/raw/master/results/hh1.jpg) 
